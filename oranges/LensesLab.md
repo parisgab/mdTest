@@ -11,7 +11,7 @@ TA: James Powell
 ### Procedure
 
 ### Data
-|Focal length| Measurement (cm)|
+|Focal length with| Measurement (cm)|
 |---|---|
 |Convex Lens| 12.1 cm|
 |Concave Lens| 6.65 cm|
@@ -29,9 +29,11 @@ Plot 1: Relationship between inverse initial distance and inverse final distance
 
 ### Questions
 1. *Write down the equation for Snell's Law and draw a descriptive diagram showing the variables.*  
-n<sub>1</sub>sin($\theta$)
-1. *What do you think might be the difference between a positive and negative lens?*
-1. *Draw what you think a concave lens would look like.*
+n<sub>1</sub>sin&theta;<sub>1</sub> = n<sub>2</sub>sin&theta;<sub>2</sub>  
+1. *What do you think might be the difference between a positive and negative lens?*  
+A positive lens has its focal point in front of it and a negative lens has its focal point behind it.  
+1. *Draw what you think a concave lens would look like.*  
+
 1. *Draw what you think a convex lens would look like.*
 1. *Is the focal point of the lens in front (between the light source and the lens) or behind (other side of the lens with respect to the light source) the lens? Explain.*
 1. *Is the focal point of the lens in front or behind the lens? Explain.*

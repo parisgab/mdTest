@@ -28,7 +28,8 @@ Plot 1: Relationship between inverse initial distance and inverse final distance
 ### Conclusion
 
 ### Questions
-1. *Write down the equation for Snell's Law and draw a descriptive diagram showing the variables.*
+1. *Write down the equation for Snell's Law and draw a descriptive diagram showing the variables.*  
+n<sub>1</sub>sin($\theta$)
 1. *What do you think might be the difference between a positive and negative lens?*
 1. *Draw what you think a concave lens would look like.*
 1. *Draw what you think a convex lens would look like.*

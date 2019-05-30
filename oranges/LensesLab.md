@@ -12,17 +12,17 @@ TA: James Powell
 
 ### Data
 |Focal length| Measurement (cm)|
-|---|
+|---|---|
 |Convex Lens| 12.1 cm|
 |Concave Lens| 6.65 cm|
 |Convex Lens 30 cm behind Concave Lens| 17.4 cm|
 |+100 mm Lens| 9.00 cm|
 
-Table 1: Observed values of distance from image and the height of the image.
-![Table 1](Table1lenses.PNG)
+Table 1: Observed values of distance from image and the height of the image.  
+![Table 1](Table1Lenses.PNG)  
 
-Plot 1: Relationship between inverse initial distance and inverse final distance.
-![Plot of table](LensDataPlot.PNG)
+Plot 1: Relationship between inverse initial distance and inverse final distance.  
+![Plot of table](LensDataPlot.PNG)  
 ### Analysis
 
 ### Conclusion

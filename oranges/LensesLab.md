@@ -41,7 +41,7 @@ Table 1: Observed values of distance from image and the height of the image.
 ![Table 1](img/Table1Lenses.PNG)  
 
 Plot 1: Relationship between inverse initial distance and inverse final distance.  
-![data table](img/LensDataPLot.PNG)  
+![data table](img/LensDataPlot.PNG) 
 
 ### Analysis  
 An interesting observation was that the plot in Plot 1 had two "clusters" of data points, which correspond to the two focal points that were identified in the thin lens part of the procedure. Another observation is that, in the focal length part of the procedure, the focal point of the convex lens is about two times further from the lens as the focal point by the concave lens.  

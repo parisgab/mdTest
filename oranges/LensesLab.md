@@ -8,23 +8,21 @@ TA: James Powell
 # Makeup Lab: Lenses
 
 ### Introduction & Preparation
-The purpose of the lab was to become familiar with and properly utilize equations and terms to understand how light behaves when it passes through lenses. This was done by shining light rays through different lenses and recording the focal points. We were able to show that light obeys laws such as Snell's Law, as well as equations such as the Thin Lens Equation<sup>[1]</sup>, Thin Lens Equation<sup>[2]</sup> and Magnification Equation<sup>[3]</sup>.
+The purpose of the lab was to become familiar with and properly utilize equations and terms to understand how light behaves when it passes through lenses. This was done by shining light rays through different lenses and recording the focal points. We were able to show that light obeys laws such as Snell's Law, as well as equations such as the Thin Lens Equation<sup>[1]</sup>, Thin Lens Equation<sup>[2]</sup> and Magnification Equation<sup>[3]</sup>.  
 
-Snell's Law says that the angle of refraction before and after light passes through a medium of given index are equivalent. That is,
-<center>
-n<sub>1</sub>sin&theta;<sub>1</sub> = n<sub>2</sub>sin&theta;<sub>2</sub> [1]
-</center>  
-There is also a relationship between the distance of the image, the object (that is, the image that is produced and the image source), and the focal length.
-<center>
-1/f = 1/d<sub>o</sub> + 1/d<sub>i</sub>
-[2]
-</center>
+Snell's Law says that the angle of refraction before and after light passes through a medium of given index are equivalent. That is,  
+
+>n<sub>1</sub>sin&theta;<sub>1</sub> = n<sub>2</sub>sin&theta;<sub>2</sub> [1]
+
+There is also a relationship between the distance of the image, the object (that is, the image that is produced and the image source), and the focal length.  
+
+>1/f = 1/d<sub>o</sub> + 1/d<sub>i</sub> [2]
+
 This is known as the Thin Lens Equation.  
-The final equation that is relevant for this lab is the Magnification Equation, which shows the relationship between the height of the image with respect to the object and the distance between the image and the object.
-<center>
-M = h<sub>i</sub>/h<sub>o</sub> = -d<sub>i</sub>/d<sub>o</sub>
-[3]
-</center>  
+The final equation that is relevant for this lab is the Magnification Equation, which shows the relationship between the height of the image with respect to the object and the distance between the image and the object.  
+
+>M = h<sub>i</sub>/h<sub>o</sub> = -d<sub>i</sub>/d<sub>o</sub> [3]
+ 
 
 ### Procedure  
 The first part of the procedure focused on the refraction of convex and concave lenses. The focal point of the lens was measured by shining five light rays from a light box onto paper and tracing the light rays when a convex and concave lens were placed in the light path. The focal length was determined by measuring from the lens to the point at which the rays converge. The light box was changed to the three-light-ray setting, and the two lenses were then put in front of the light source together to observe and record the difference in focal point. The distance of the concave lens from the convex lens was changed to record how the distance affected the focal point of the light source. To see how the angle of refraction affected the focal point of the light, the five-light-ray setting was used, except the middle three rays and the outer two rays were blocked out in turn, so the remaining light rays refracted in the lens and the focal point could be measured.
